@@ -21,3 +21,15 @@
   height: 30px;
   width: auto;
 }
+
+.navbar {
+  min-height: 38px;
+  background-color: #3de1ad;
+}
+
+.navbar a.brand { font-size: 18px; }
+.navbar a.brand:hover {
+ color: #fff;
+ background-color: transparent;
+ text-decoration: none;
+}
